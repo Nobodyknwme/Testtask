@@ -1,0 +1,9 @@
+steps:
+  - name: Build and start all services
+    command: docker-compose up --build
+
+  - name: Check running containers
+    command: docker ps
+
+  - name: View logs for services
+    command: docker-compose logs
