@@ -24,7 +24,7 @@ This project involves deploying a web application with a Postgres database, a Dj
 
    #bash
    git clone <https://github.com/Nobodyknwme/Testtask>
-   cd <Testtask>
+   cd Testtask
 
 2. Install the required packages:
 #bash
