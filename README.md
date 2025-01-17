@@ -23,7 +23,7 @@ This project involves deploying a web application with a Postgres database, a Dj
 1. Clone the repository:
 
    #bash
-   git clone <https://github.com/Nobodyknwme/Testtask>
+   git clone https://github.com/Nobodyknwme/Testtask
    cd Testtask
 
 2. Install the required packages:
@@ -34,7 +34,7 @@ sudo apt update && sudo apt install -y docker.io docker-compose
 
 A. **Using script setup.sh (Recommended for Automation)**
    #bash
-   cd <Testtask>
+   cd Testtask
    chmod +x setup.sh
    ./setup.sh
 
